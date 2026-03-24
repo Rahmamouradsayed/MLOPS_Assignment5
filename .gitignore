@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+mlruns/
+model_info.txt
+data/dataset.csv
